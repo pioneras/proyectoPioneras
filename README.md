@@ -1,9 +1,6 @@
 # proyectoPioneras
 construcción orgánica del proyecto, a través de los fragmentos importantes resultados de propuestas, informes y convocatorias
 
-
- 
-
 Informa para ViveLab Medellín RutaN
 
 DESCRIPCIÓN DE LA NECESIDAD es decir porque necesitan el espacio
